@@ -31,3 +31,6 @@ pyinstaller main.py
 
 ### Getting Help
 For application usage, on the menu bar of the application, navigate to Help > View Help.
+
+### Testing
+Sample matrix rack data files are provided on GitHub: https://github.com/dennis1299/tube-sorter-worklist-generator/tree/master/Sample%20Data%20Files%20for%20Testing
